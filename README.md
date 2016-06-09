@@ -2,7 +2,7 @@
 Picasso is an image library for Android
 
 
-Downloading the JAR file 
+Download the JAR file 
 
 It's very useful for managing images and no worry about Memory problem.
 When I' download images from server or json 
