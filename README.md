@@ -27,4 +27,7 @@ import statement at the top of the Activity class.
                 .into(img);
 
 
-You make sure to add <uses-permission android:name="android.permission.INTERNET" /> to your project's manifest.
+You make sure to add  your project's manifest.
+
+               <uses-permission android:name="android.permission.INTERNET" /> 
+               
